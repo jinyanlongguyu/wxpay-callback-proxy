@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/wxpay-notify.js": {
+      "maxDuration": 30
+    }
+  }
+}
